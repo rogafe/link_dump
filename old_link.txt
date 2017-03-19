@@ -1,0 +1,169 @@
+/!\ This is an file a make before the start of the project, i have to make it clean /!\
+
+
+
+
+
+
+----- ChromeBook -----
+
+http://blogsofwar.com/the-toshiba-chromebook-2-an-amazing-chromebook-good-linux-laptop-and-decent-macbook/
+
+http://www.ebay.fr/itm/Toshiba-Chromebook-CB30-102-13-3-Laptop-Intel-Celeron-2GB-RAM-16GB-SSD-R-/182242033879?hash=item2a6e78c0d7:g:yGAAAOSw-kdXw8nj
+
+------ Comptoire Secu ------
+http://media.blubrry.com/comptoirsecu/p/podcast.comptoirsecu.fr/CSEC.EP36.2016-05-02.MOTS_DE_PASSE.mp3
+
+
+--- Pentest ---
+
+http://www.pentest.guru/index.php/2015/10/29/hardware-assisted-penetration-testing/
+
+http://hackerboards.com/tiny-open-source-usb-stick-sbc-focuses-on-security/
+
+Think to buy 2016-2017
+
+
+
+https://inversepath.com/usbarmory
+
+---PowerShell ---
+
+
+
+
+https://community.spiceworks.com/topic/857690-automatically-and-silently-bypass-execution-policy-for-a-powershell-script
+
+
+https://blog.netspi.com/15-ways-to-bypass-the-powershell-execution-policy/
+
+
+https://www.youtube.com/watch?v=aDeJBe6eqps   ---- PowerShell
+
+
+
+---- LapTop ----
+
+
+https://www.amazon.com/gp/product/B00PGU0H6G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PGU0H6G&linkCode=as2&tag=picknote-20&linkId=XTKVL34A3MUV5XBX
+
+https://www.amazon.com/gp/product/B00PGU0H6G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PGU0H6G&linkCode=as2&tag=picknote-20&linkId=XTKVL34A3MUV5XBX
+
+http://picknotebook.com/blog/best-kali-linux-laptop/
+
+https://www.amazon.com/Lenovo-Thinkpad-processor-Professional-Refurbished/dp/B01446UMMG/ref=as_li_ss_tl?ie=UTF8&qid=1466523080&sr=8-1-spons&keywords=Thinkpad+T420&psc=1&linkCode=sl1&tag=picknotb-20&linkId=eed169c3385e7319200ac77ccb04e255
+
+http://www.ebay.fr/itm/Laptop-Portatile-IBM-Lenovo-Thinkpad-T420-2-5Ghz-Core-i5-14-4gb-SSD128gb-Webcam-/222224895162?hash=item33bda2ccba:g:cpwAAOSwgZ1XuEch
+
+
+
+---- Proxy ----
+
+http://blog.nicolargo.com/2009/05/tunnel-http-pour-faire-du-ssh-depuis-le-bureau.html
+
+http://xmodulo.com/how-to-configure-http-proxy-exceptions.html
+
+
+
+
+
+--- Hebergment ---
+
+https://www.linode.com/pricing 
+
+4 GB RAM $.06/hr et $.12/hr 8gb 
+			40$       80$
+
+
+https://openvz.io/
+
+5.1€/monthly	                7.65€/monthly		
+3 vCores						3vCore
+50GB Storage					75gb storage
+3072MB RAM						4096MB RAM
+1000GB Bandwidth				<----------
+Choose from 3 locations			<----------
+
+
+
+Kimsufi 
+
+
+Modèle	 RAM	Disq.	Réseau 	       Prix /mois	
+KS-1	 2 Go	500 Go	100 Mbps		4,99 € HT 
+
+KS-2B	4 Go  40 Go SSD 100Mbps			9.99€ HT
+
+KS-2A	4 Go	1 To	100 Mbps	    9,99 € HT 
+
+
+
+SHPV 
+
+VPS Lowcost
+
+1Go à 10Go DDR4
+1 à 4 vCPU
+SAS2
+1.99€ HT/mois
+
+VPS Pro
+
+1Go à 10Go DDR4
+1 à 4 vCPU
+SAS2 & SSD Cached
+3.80€ HT/mois
+
+
+firstheberg
+
+VPS OpenVZ - Stockage SSD - Système Linux
+
+Nom	RAM	vCore	Espace Disque	Technologie	Bande Passante	Prix	
+LP 1	1 Go	1 vCore	20 Go SSD	OpenVZ	100 Mbps	1,49 € HT/mois	
+LP 2	2 Go	2 vCore	20 Go SSD	OpenVZ	100 Mbps	2,49 € HT/mois	
+LP 4	4 Go	2 vCore	30 Go SSD	OpenVZ	100 Mbps	4,99 € HT/mois	
+LP 8	8 Go	2 vCore	40 Go SSD	OpenVZ	100 Mbps	9,99 € HT/mois	
+LP 16	16 Go	2 vCore	50 Go SSD	OpenVZ	100 Mbps	19,99 € HT/mois	
+
+VPS ST - Stockage HDD - Système Linux & Windows
+
+Nom	RAM	vCore	Espace Disque	Technologie	Bande Passante	Prix	
+ST 50	1 Go	2 vCore	50 Go Raid 10	KVM	200 Mbps	3,99 € HT/mois	
+ST 75	2 Go	2 vCore	75 Go Raid 10	KVM	200 Mbps	6,99 € HT/mois	
+ST 100	2 Go	2 vCore	100 Go Raid 10	KVM	200 Mbps	12,99 € HT/mois	
+ST 200	4 Go	2 vCore	200 Go Raid 10	KVM	200 Mbps	19,99 € HT/mois	
+ST 300	4 Go	2 vCore	300 Go Raid 10	KVM	200 Mbps	29,99 € HT/mois
+
+VPS GP - Stockage SSD - Système Linux & Windows
+
+GP 1	1 Go	2 vCore	20 Go SSD	KVM	100 Mbps	3,99 € HT/mois	
+GP 2	2 Go	2 vCore	20 Go SSD	KVM	100 Mbps	6,99 € HT/mois	
+GP 4	4 Go	2 vCore	30 Go SSD	KVM	100 Mbps	12,99 € HT/mois	
+GP 8	8 Go	4 vCore	40 Go SSD	KVM	100 Mbps	19,99 € HT/mois	
+GP 16	16 Go	4 vCore	50 Go SSD	KVM	100 Mbps	29,99 € HT/mois	
+
+
+https://www.pulseheberg.com/cloud/vps-linux
+
+VPS
+
+VPS-4
+INTEL® XEON® L5640
+4 VCORE @ 2.26GHZ
+4GO DDR3
+40GO SSHD
+100MBPS
+5€ TTC / MOIS
+
+SERVEURS DÉDIÉS
+
+
+
+
+
+--------------------------------------------
+Les Non Triers 
+https://www.behost.fr/vps-classic/
+
+
