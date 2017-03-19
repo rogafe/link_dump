@@ -33,6 +33,14 @@
 
 [cours_securite.ppt](http://deptinfo.cnam.fr/Enseignement/CycleProbatoire/RSX102/cours_securite.ppt)
 
+## Talk
+
+https://www.passageenseine.org/fr/archives-et-videos/
+
+https://nuitduhack.com/fr/talks.html  - http://2015.nuitduhack.com/fr/talks.html#karsten_nohl - http://2014.nuitduhack.com/talks.html
+
+
+
 
 
 
