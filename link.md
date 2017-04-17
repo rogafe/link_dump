@@ -99,11 +99,6 @@ http://www.ebay.fr/itm/Toshiba-Chromebook-CB30-102-13-3-Laptop-Intel-Celeron-2GB
 
 ---- LapTop ----
 
-
-https://www.amazon.com/gp/product/B00PGU0H6G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PGU0H6G&linkCode=as2&tag=picknote-20&linkId=XTKVL34A3MUV5XBX
-
-https://www.amazon.com/gp/product/B00PGU0H6G/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00PGU0H6G&linkCode=as2&tag=picknote-20&linkId=XTKVL34A3MUV5XBX
-
 http://picknotebook.com/blog/best-kali-linux-laptop/
 
 https://www.amazon.com/Lenovo-Thinkpad-processor-Professional-Refurbished/dp/B01446UMMG/ref=as_li_ss_tl?ie=UTF8&qid=1466523080&sr=8-1-spons&keywords=Thinkpad+T420&psc=1&linkCode=sl1&tag=picknotb-20&linkId=eed169c3385e7319200ac77ccb04e255
