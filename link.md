@@ -94,10 +94,9 @@ http://www.ebay.fr/itm/Toshiba-Chromebook-CB30-102-13-3-Laptop-Intel-Celeron-2GB
 
 
 
-## Link of laptop I my want
 
 
----- LapTop ----
+### ---LapTop ----
 
 http://picknotebook.com/blog/best-kali-linux-laptop/
 
