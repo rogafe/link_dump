@@ -7,7 +7,7 @@ feels free to share, pulls and clone if you want
 
 [The link file](https://github.com/rogafe/link_dump/blob/master/link.md)
 
-[Hebergement (in french) ](https://github.com/rogafe/link_dump/blob/master/hebergement.md)
+[Hebergement/Hosting](https://github.com/rogafe/link_dump/blob/master/hebergement.md)
 
 _____
 # Rogafe
