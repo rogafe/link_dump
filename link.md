@@ -51,7 +51,7 @@ https://nuitduhack.com/fr/talks.html  - http://2015.nuitduhack.com/fr/talks.html
 
 ## ---- Proxy ----
 
-http://blog.nicolargo.com/2009/05/tunnel-http-pour-faire-du-ssh-depuis-le-bureau.html
+http://blog.nicolargo.com/2009/05/tunnel-http-pour-faire-du-ssh-depuis-le-bureau.html (french)
 
 http://xmodulo.com/how-to-configure-http-proxy-exceptions.html
 
@@ -72,6 +72,7 @@ https://www.youtube.com/watch?v=aDeJBe6eqps
 ## Not sure usefull but here
 
 [online clock](http://heure.com)
+weather `curl wttr.in/your_location`
 
 
 
@@ -84,9 +85,9 @@ http://hackerboards.com/tiny-open-source-usb-stick-sbc-focuses-on-security/
 
 https://inversepath.com/usbarmory
 
-### Laptop
+### **Laptop**
 
-#### ChromeBook
+#### ---ChromeBook---
 
 http://blogsofwar.com/the-toshiba-chromebook-2-an-amazing-chromebook-good-linux-laptop-and-decent-macbook/
 
@@ -96,7 +97,7 @@ http://www.ebay.fr/itm/Toshiba-Chromebook-CB30-102-13-3-Laptop-Intel-Celeron-2GB
 
 
 
-### ---LapTop ----
+#### ---LapTop ----
 
 http://picknotebook.com/blog/best-kali-linux-laptop/
 
